@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+#box {
+  padding: 16px;
+  border: 2px solid #999;
+  width: 200px;
+}
+
+.active {
+  background-color: #ffe08a;
+  border-color: #e09a00;
+  font-weight: bold;
+}
